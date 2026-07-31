@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 client/ApiClient.java - Базовый HTTP-клиент на RestAssured. Содержит методы given(), givenWithAuth(), givenWithRefreshToken().
 
 config/TestData.java - Хранит тестовые данные: логины, пароли, email, ID команд, константы для негативных тестов.
@@ -29,3 +30,7 @@ resources/allure.properties - Настройки Allure (путь к отчет�
 pom.xml - Все зависимости: RestAssured, Jackson, Lombok, Allure, AssertJ, JUnit 5.
 
 db/DatabaseClient.java - Файл для работы с бд
+=======
+# Perfomans_Labs_IPR
+ИПР по автотестированию Api и Ui кейсы + загрузка результата в гит после получения успешного аллюра
+>>>>>>> 0c34c6a5eb236797718db55e502e91adadfe686d
